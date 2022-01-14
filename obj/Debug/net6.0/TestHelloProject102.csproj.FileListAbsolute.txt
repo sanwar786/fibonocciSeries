@@ -1,0 +1,15 @@
+C:\Users\shaba\source\repos\TestHelloProject102\TestHelloProject102\bin\Debug\net6.0\TestHelloProject102.exe
+C:\Users\shaba\source\repos\TestHelloProject102\TestHelloProject102\bin\Debug\net6.0\TestHelloProject102.deps.json
+C:\Users\shaba\source\repos\TestHelloProject102\TestHelloProject102\bin\Debug\net6.0\TestHelloProject102.runtimeconfig.json
+C:\Users\shaba\source\repos\TestHelloProject102\TestHelloProject102\bin\Debug\net6.0\TestHelloProject102.dll
+C:\Users\shaba\source\repos\TestHelloProject102\TestHelloProject102\bin\Debug\net6.0\ref\TestHelloProject102.dll
+C:\Users\shaba\source\repos\TestHelloProject102\TestHelloProject102\bin\Debug\net6.0\TestHelloProject102.pdb
+C:\Users\shaba\source\repos\TestHelloProject102\TestHelloProject102\obj\Debug\net6.0\TestHelloProject102.csproj.AssemblyReference.cache
+C:\Users\shaba\source\repos\TestHelloProject102\TestHelloProject102\obj\Debug\net6.0\TestHelloProject102.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaba\source\repos\TestHelloProject102\TestHelloProject102\obj\Debug\net6.0\TestHelloProject102.AssemblyInfoInputs.cache
+C:\Users\shaba\source\repos\TestHelloProject102\TestHelloProject102\obj\Debug\net6.0\TestHelloProject102.AssemblyInfo.cs
+C:\Users\shaba\source\repos\TestHelloProject102\TestHelloProject102\obj\Debug\net6.0\TestHelloProject102.csproj.CoreCompileInputs.cache
+C:\Users\shaba\source\repos\TestHelloProject102\TestHelloProject102\obj\Debug\net6.0\TestHelloProject102.dll
+C:\Users\shaba\source\repos\TestHelloProject102\TestHelloProject102\obj\Debug\net6.0\ref\TestHelloProject102.dll
+C:\Users\shaba\source\repos\TestHelloProject102\TestHelloProject102\obj\Debug\net6.0\TestHelloProject102.pdb
+C:\Users\shaba\source\repos\TestHelloProject102\TestHelloProject102\obj\Debug\net6.0\TestHelloProject102.genruntimeconfig.cache
